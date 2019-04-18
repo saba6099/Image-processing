@@ -21,6 +21,7 @@ def causal_coeff(sigma):
     bplus = np.zeros(4)
 
     # a0
+
     aplus[0] = a1 + a2
 
     # a1
